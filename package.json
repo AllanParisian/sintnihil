@@ -1,0 +1,26 @@
+{
+  "name": "sintnihil",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "dependencies": {},
+  "typings": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AllanParisian/sintnihil.git"
+  },
+  "keywords": [
+    "facere",
+    "rerum",
+    "est",
+    "parser"
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AllanParisian/sintnihil.git/issues"
+  },
+  "devDependencies": {
+    "@types/node": "4.2.20",
+    "rimraf": "*"
+  },
+  "author": "BryonSchuster"
+}
